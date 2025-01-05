@@ -8,7 +8,7 @@ Financial institutions face significant challenges in effectively evaluating and
 
 ## Solution
 The **Green Finance Optimization Platform** utilizes cutting-edge AI and data aggregation techniques to address these challenges. The platform evaluates and prioritizes investment projects based on predefined ESG metrics, ensuring optimal resource allocation, reducing risks, and enhancing the overall sustainability impact of financial decisions.
-![Uploading WhatsApp Image 2025-01-05 at 17.07.32_c7450213.jpg…]()
+![WhatsApp Image 2025-01-05 at 17 07 32_c7450213](https://github.com/user-attachments/assets/2ec2fd62-f1a6-487f-8ae3-9a17ccd74a74)
 ### Key Features:
 - **AI-Powered ESG Scoring:** Advanced AI-driven analysis evaluates and prioritizes projects based on their environmental, social, and governance impact.
 - **Proactive Risk Prediction Engine:** Identifies and mitigates potential investment risks early on, ensuring the long-term stability of the portfolio.
