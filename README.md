@@ -27,6 +27,8 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 
 1. **Project Idea & Company History (Input)**
    - Inputs to the system for project scope and company historical performance.
+   ![WhatsApp Image 2025-01-05 at 17 22 42_f447431d](https://github.com/user-attachments/assets/e6719222-9237-4b79-a3a7-a5a7ab474c07)
+   ![WhatsApp Image 2025-01-05 at 17 22 52_8849c6af](https://github.com/user-attachments/assets/81e8c515-40a7-46e2-beda-427c81239aeb)
 
 2. **NLP (Natural Language Processing)**
    - Extracts key information from unstructured data (reports, proposals, etc.).
@@ -43,10 +45,12 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 6. **Visualization**
    - Provides real-time, interactive visualizations of project rankings and ESG performance.
      ![visualization](https://github.com/user-attachments/assets/5bc79544-951d-4b50-88d6-66b518ffb6e7)
-
+     
 
 7. **ESG Impact Optimization**
    - Optimizes resource allocation to maximize sustainability impact across projects while staying within budget constraints.
+     ![WhatsApp Image 2025-01-05 at 17 09 04_0a1c6c2f](https://github.com/user-attachments/assets/5a88425e-f650-41bb-9d89-647190faffc0)
+
 
 8. **Recommendations**
    - Generates dynamic portfolio recommendations to balance both ESG and financial goals.
@@ -57,6 +61,8 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 
 10. **Return on Investment (ROI)**
     - Calculates the expected ROI, considering both financial and ESG returns.
+   ![WhatsApp Image 2025-01-05 at 17 27 27_f26e8e2a](https://github.com/user-attachments/assets/a822c6ff-3f42-4613-ab5f-6e8ccac396ce)
+
 
 11. **Dynamic Portfolio Optimization**
     - Adjusts investment strategies to optimize ESG performance and financial returns, ensuring portfolio diversity and risk mitigation.
