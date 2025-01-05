@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-01-05 at 17 23 56_95e29a4f](https://github.com/user-attachments/assets/c1f8546a-b9e4-4309-90cd-01f021b082f0)# EcoInvest: Green Finance Optimization Platform
+# EcoInvest: Green Finance Optimization Platform
 
 ## Overview
 The **Green Finance Optimization Platform** is an AI-powered solution designed to help financial institutions assess, prioritize, and optimize their investments based on Environmental, Social, and Governance (ESG) criteria. By utilizing advanced AI models and diverse data sources, the platform ensures that projects with the highest sustainability impact are prioritized, while also mitigating risks and optimizing resource allocation for maximum impact.
