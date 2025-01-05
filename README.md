@@ -23,7 +23,7 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 - **Visualization Tools - Power BI:** Provides clear and interactive visual representations of ESG metrics, risk levels, and portfolio performance for stakeholders.
 
 ## Process Flow
-![flowchart drawio](https://github.com/user-attachments/assets/2fb4f62e-331a-4a9c-bec3-516e8eedd7e0)
+![flowchart drawio](https://github.com/user-attachments/assets/25f4c642-4047-44af-be60-fc757ad8c639)
 
 1. **Project Idea & Company History (Input)**
    - Inputs to the system for project scope and company historical performance.
@@ -77,14 +77,3 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 - **Blockchain:** Hyperledger, Ethereum
 - **Programming Languages:** Python, SQL, JavaScript
 
-## Getting Started
-
-### Prerequisites:
-- AWS account for cloud resources.
-- Access to ESG data sources (government databases, NGOs, financial reports).
-- Power BI or Tableau for visualization.
-
-### Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/green-finance-platform.git
