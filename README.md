@@ -23,6 +23,7 @@ The **Green Finance Optimization Platform** utilizes cutting-edge AI and data ag
 - **Visualization Tools - Power BI:** Provides clear and interactive visual representations of ESG metrics, risk levels, and portfolio performance for stakeholders.
 
 ## Process Flow
+![flowchart drawio](https://github.com/user-attachments/assets/2fb4f62e-331a-4a9c-bec3-516e8eedd7e0)
 
 1. **Project Idea & Company History (Input)**
    - Inputs to the system for project scope and company historical performance.
