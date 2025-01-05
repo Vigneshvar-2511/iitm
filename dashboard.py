@@ -185,9 +185,3 @@ if uploaded_file is not None:
     st.write("Processing the report... (This feature is under development)")
     st.success("Report processed successfully!")
 
-# Footer Section with Contact Info and Disclaimer
-st.markdown("""
-    ---
-    **Contact Us**: [support@greenfinance.com](mailto:support@greenfinance.com)
-    **Disclaimer**: This platform is a demonstration of the AI-powered Green Finance Optimization system. All data is simulated for this purpose.
-""")
